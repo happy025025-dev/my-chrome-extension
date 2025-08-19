@@ -1,0 +1,1 @@
+document.getElementById('btn').onclick=function(){alert('Hello Chrome Extension')}
